@@ -1,6 +1,7 @@
 ### Hi, I'm Amir Reza Khatibi 
 
 Data Science & Engineering (MSc) @ Politecnico di Torino • ML • SQL/MongoDB • C/C++
+
 I like turning messy data into clear models, metrics, and reproducible projects.
 
 - 🔭 I’m currently working on applying classification and PCA algorithms on large datasets. 
