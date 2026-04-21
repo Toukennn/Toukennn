@@ -57,32 +57,13 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 
 ## Projects
 
-### 🏠 Real Estate Price Prediction
-- Built a complete **regression pipeline** (EDA → feature engineering → modeling)
-- Compared models: Linear Regression, Random Forest, HistGradientBoosting  
-- Evaluated with **RMSE, MAE, Adjusted R²**
+### Data & Machine Learning Projects
 
-**Tech:** `Pandas` `Scikit-learn` `Matplotlib` `numpy` `seaborn` `streamlit` 
-
----
-
-### 📰 News Article Topic Classification
-- Developed **multi-class NLP classifier (7 categories)**
-- Built TF-IDF pipeline (~65k features) + metadata integration  
-- Used **LinearSVC with class balancing**  
-- Compared multiple models and tuned hyperparameters
-
-**Tech:** `NLP` `Scikit-learn` `TF-IDF` `numpy` `pandas` `matplotlib` `seaborn`
-
-### 🏗️ SQL Data Warehousing Project  
-- Designed and implemented a **Medallion Architecture (Bronze, Silver, Gold layers)**  
-- Built **ETL pipelines using SQL** for structured data ingestion and transformation  
-- Modeled fact and dimension tables for analytical querying  
-- Optimized performance using **indexing and query design**  
-
-**Tech:** `SQL` `Data Warehousing` `ETL`  
-👉 https://github.com/Toukennn/SQL_DataWarehousing  
-
+| Repository | Description | Tech |
+|------------|-------------|------|
+| [**SQL_DataWarehousing**](https://github.com/Toukennn/SQL_DataWarehousing) | Designed a **Medallion Architecture (Bronze, Silver, Gold)** and built SQL-based ETL pipelines with dimensional modeling and performance optimization | `SQL` `ETL` `Data Warehouse` |
+| [**News-Article-Topic-Classification**](https://github.com/Toukennn/News-Article-Topic-Classification) | Multi-class NLP classifier (7 categories) using TF-IDF (~65k features), metadata integration, and LinearSVC with class balancing | `NLP` `Scikit-learn` `TF-IDF` |
+| [**Real-Estate-Price-Prediction**](#) | End-to-end regression pipeline with feature engineering, model comparison, and evaluation using RMSE, MAE, and Adjusted R² | `Pandas` `Scikit-learn` `ML` |
 
 ---
 
