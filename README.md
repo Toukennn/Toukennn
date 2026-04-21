@@ -93,6 +93,19 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 
 ---
 
+---
+
+## Languages
+
+| Language | Level |
+|----------|-------|
+| English | C2 |
+| Persian | Native |
+| Italian | B2 |
+| Turkish | A2 |
+
+---
+
 ## GitHub Stats
 
 <p align="center">
@@ -110,7 +123,7 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 
 <p align="center">
   <a href="mailto:amirreza.khatibi@studenti.polito.it"><img src="https://img.shields.io/badge/Academic-Amirreza.Khatibi%40studenti.polito.it-0969DA?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Academic Email"/></a>
-  <a href="mailto:contact.amirrezakhatibi2009@gmail.com"><img src="https://img.shields.io/badge/Personal-contact.AmirrezaKhatibi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"/></a>
+  <a href="mailto:contact.amirrezakhatibi2009@gmail.com"><img src="https://img.shields.io/badge/Personal-contact.AmirrezaKhatibi2009%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"/></a>
 </p>
 
 ---
@@ -120,5 +133,5 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=100&section=footer"/>
+  <em>Building data systems, one pipeline at a time 🚀</em>
 </p>
