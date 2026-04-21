@@ -109,8 +109,8 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 ## Contact
 
 <p align="center">
-  <a href="mailto:amirreza.khatibi@studenti.polito.it"><img src="https://img.shields.io/badge/Academic-Amirreza Khatibi%40studenti.polito.it-0969DA?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Academic Email"/></a>
-  <a href="mailto:contact.amirrezakhatibi2009@gmail.com"><img src="https://img.shields.io/badge/Personal-contact.Amirreza Khatibi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"/></a>
+  <a href="mailto:amirreza.khatibi@studenti.polito.it"><img src="https://img.shields.io/badge/Academic-Amirreza.Khatibi%40studenti.polito.it-0969DA?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Academic Email"/></a>
+  <a href="mailto:contact.amirrezakhatibi2009@gmail.com"><img src="https://img.shields.io/badge/Personal-contact.AmirrezaKhatibi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"/></a>
 </p>
 
 ---
