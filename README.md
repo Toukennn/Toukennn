@@ -20,12 +20,12 @@
 
 ## About Me
 
-Data Science & Engineering student with a strong foundation in **machine learning, statistical modeling, and data engineering**.
+Data Science & Engineering student with a strong foundation in **machine learning, computer vision, and data engineering**.
 
 - 🎓 MSc in **Data Science and Engineering** – Politecnico di Torino  
-- 🧠 Focus on **ML pipelines, NLP, and scalable data systems**  
-- 🏗️ Experience building **end-to-end ML workflows** from data preprocessing to evaluation  
-- 📊 Strong background in **algorithms, systems, and applied statistics**  
+- 🧠 Focus on **ML & Data pipelines, NLP, Computer Vision, and scalable data systems**  
+- 🏗️ Experience building **end-to-end ML workflows and data pipelines** from data preprocessing to evaluation  
+- 📊 Strong background in **algorithms, system design, and applied statistics**  
 - 🚀 Interested in **real-world data problems and production-ready systems**
 
 ---
@@ -34,7 +34,7 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 
 | Degree | Institution | Period | Notes |
 |--------|-------------|--------|------|
-| **MSc Data Science & Engineering** | Politecnico di Torino | 2025 – 2027 | Focus: ML, Data Engineering, Large-scale Data |
+| **MSc Data Science & Engineering** | Politecnico di Torino | 2025 – 2027 | Focus: ML, Data Engineering, Large-scale Data, Computer Vision, NLP |
 | **BSc Computer Engineering** | Politecnico di Torino | 2022 – 2025 | **110/110**, Honors Program (INTRAPRENDENTI), IEEE-HKN |
 
 ---
@@ -44,12 +44,14 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 ### Teaching Assistant · Politecnico di Torino  
 *Signals and Systems (2025 – 2026)*  
 - Supported **300+ students** through labs and office hours  
-- Explained **mathematical foundations of signal processing**
+- Explained **mathematical foundations of signal processing** and Solved Past-exam problems
+- Contributed to a **significant improvement in student performance and pass rates**  
 
 ### Laboratory Teaching Assistant · Politecnico di Torino  
 *Algorithms and Data Structures (2024)*  
-- Assisted **200+ students** in algorithm implementation  
-- Covered **complexity analysis, recursion, sorting, debugging**
+- Assisted **200+ students** in implementing data structures for solving complex algorithmic problems   
+- Covered **complexity analysis, recursion, sorting, debugging, dyanmic programming, graph traversal**
+- - Helped improve **overall course outcomes and student success rates**  
 
 ---
 
@@ -60,7 +62,7 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 - Compared models: Linear Regression, Random Forest, HistGradientBoosting  
 - Evaluated with **RMSE, MAE, Adjusted R²**
 
-**Tech:** `Pandas` `Scikit-learn` `Matplotlib`
+**Tech:** `Pandas` `Scikit-learn` `Matplotlib` `numpy` `seaborn` `streamlit` 
 
 ---
 
@@ -68,9 +70,19 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 - Developed **multi-class NLP classifier (7 categories)**
 - Built TF-IDF pipeline (~65k features) + metadata integration  
 - Used **LinearSVC with class balancing**  
-- Compared multiple models and tuned hyperparameters  
+- Compared multiple models and tuned hyperparameters
 
-**Tech:** `NLP` `Scikit-learn` `TF-IDF`
+**Tech:** `NLP` `Scikit-learn` `TF-IDF` `numpy` `pandas` `matplotlib` `seaborn`
+
+### 🏗️ SQL Data Warehousing Project  
+- Designed and implemented a **Medallion Architecture (Bronze, Silver, Gold layers)**  
+- Built **ETL pipelines using SQL** for structured data ingestion and transformation  
+- Modeled fact and dimension tables for analytical querying  
+- Optimized performance using **indexing and query design**  
+
+**Tech:** `SQL` `Data Warehousing` `ETL`  
+👉 https://github.com/Toukennn/SQL_DataWarehousing  
+
 
 ---
 
@@ -83,10 +95,10 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 | Domain | Technologies |
 |--------|-------------|
 | **Programming** | Python, C, C++, Java |
-| **ML & Data Science** | NumPy, Pandas, Scikit-learn, PyTorch |
-| **Data Engineering** | SQL, MongoDB, Data Warehouse Design |
-| **Tools** | Git, Docker, Linux, Jupyter, FastAPI |
-| **Visualization** | Matplotlib, Power BI |
+| **ML & Data Science** | NumPy, Pandas, Scikit-learn, PyTorch, Tensorflow |
+| **Data Engineering** | SQL, MongoDB, Data Warehouse Design, ETL Pipelines |
+| **Tools** | Git, Docker, Linux, Jupyter, FastAPI, AWS services, Apache Airflow, SSMS|
+| **Visualization** | Matplotlib, Seaborn, Power BI |
 
 ---
 
