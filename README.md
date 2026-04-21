@@ -133,5 +133,5 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 </p>
 
 <p align="center">
-  <em>Building data systems, one pipeline at a time 🚀</em>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0969DA,50:58a6ff,100:1f6feb&height=8&section=footer&animation=fadeIn"/>
 </p>
