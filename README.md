@@ -133,5 +133,5 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0969DA,50:58a6ff,100:1f6feb&height=8&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0969DA&height=120&section=footer&reversal=true&animation=fadeIn"/>
 </p>
