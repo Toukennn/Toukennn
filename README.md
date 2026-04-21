@@ -70,7 +70,7 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,sql,docker,aws,git,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,linux,cpp,java,sql,docker,aws,git,fastapi&perline=8" />
 </p>
 
 | Domain | Technologies |
@@ -87,7 +87,7 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 
 - ⚙️ Building **more advanced ML pipelines**
 - ☁️ Learning **AWS for scalable data systems**
-- 🐳 Integrating **Docker into ML workflows**
+- 🧠 Exploring **Deep Learning & Computer Vision**
 - ⚡ Strengthening **data engineering & backend skills**
 
 ---
