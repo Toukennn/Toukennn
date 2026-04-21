@@ -70,7 +70,7 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,linux,cpp,java,mysql,docker,fastapi&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,linux,cpp,java,mysql,docker,fastapi&perline=8" />
 </p>
 
 | Domain | Technologies |
