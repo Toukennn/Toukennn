@@ -20,78 +20,82 @@
 
 ## About Me
 
-Master’s student in **Management & Engineering** with a strong interest in building **scalable data systems and machine learning pipelines**.
+Data Science & Engineering student with a strong foundation in **machine learning, statistical modeling, and data engineering**.
 
-- 🎓 MSc at **Politecnico di Torino**
-- 🧠 Focus: **Data Engineering, Machine Learning, Cloud (AWS)**
-- 🏗️ Building **end-to-end data pipelines & ML systems**
-- 📊 Background in **SQL, Data Analysis, and NLP**
-- 🚀 Learning by **building real-world projects**
+- 🎓 MSc in **Data Science and Engineering** – Politecnico di Torino  
+- 🧠 Focus on **ML pipelines, NLP, and scalable data systems**  
+- 🏗️ Experience building **end-to-end ML workflows** from data preprocessing to evaluation  
+- 📊 Strong background in **algorithms, systems, and applied statistics**  
+- 🚀 Interested in **real-world data problems and production-ready systems**
 
 ---
 
 ## Education
 
-| Degree | Institution | Period |
-|--------|-------------|--------|
-| **MSc Management & Engineering** | **Politecnico di Torino** | 2024 - Present |
-| **BSc** | *(Add your university)* | *(Add years)* |
+| Degree | Institution | Period | Notes |
+|--------|-------------|--------|------|
+| **MSc Data Science & Engineering** | Politecnico di Torino | 2025 – 2027 | Focus: ML, Data Engineering, Large-scale Data |
+| **BSc Computer Engineering** | Politecnico di Torino | 2022 – 2025 | **110/110**, Honors Program (INTRAPRENDENTI), IEEE-HKN |
 
 ---
 
 ## Experience
 
-*(You can update this later when you have internships — keeping it clean for now)*
+### Teaching Assistant · Politecnico di Torino  
+*Signals and Systems (2025 – 2026)*  
+- Supported **300+ students** through labs and office hours  
+- Explained **mathematical foundations of signal processing**
 
-- Built multiple **data-driven projects** involving:
-  - ETL pipelines
-  - NLP models
-  - Data warehouse design
-- Focus on **practical implementation over theory**
+### Laboratory Teaching Assistant · Politecnico di Torino  
+*Algorithms and Data Structures (2024)*  
+- Assisted **200+ students** in algorithm implementation  
+- Covered **complexity analysis, recursion, sorting, debugging**
+
+---
+
+## Projects
+
+### 🏠 Real Estate Price Prediction
+- Built a complete **regression pipeline** (EDA → feature engineering → modeling)
+- Compared models: Linear Regression, Random Forest, HistGradientBoosting  
+- Evaluated with **RMSE, MAE, Adjusted R²**
+
+**Tech:** `Pandas` `Scikit-learn` `Matplotlib`
+
+---
+
+### 📰 News Article Topic Classification
+- Developed **multi-class NLP classifier (7 categories)**
+- Built TF-IDF pipeline (~65k features) + metadata integration  
+- Used **LinearSVC with class balancing**  
+- Compared multiple models and tuned hyperparameters  
+
+**Tech:** `NLP` `Scikit-learn` `TF-IDF`
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,docker,aws,git,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,sql,docker,aws,git,linux&perline=8" />
 </p>
 
 | Domain | Technologies |
 |--------|-------------|
-| **Programming** | Python, SQL |
-| **Data Engineering** | ETL Pipelines, Data Warehousing, Medallion Architecture |
-| **Cloud** | AWS (Learning) |
-| **Tools** | Docker, Git, Linux |
-| **Machine Learning** | Scikit-learn, NLP |
-
----
-
-## Repositories
-
-### Data Engineering Projects
-
-| Repository | Description | Tech |
-|------------|-------------|------|
-| [**Data Warehouse Project**](https://github.com/Toukennn) | Designed Medallion Architecture (Bronze, Silver, Gold) with SQL pipelines | `SQL` `ETL` |
-| [**Pipeline + Airflow (WIP)**](https://github.com/Toukennn) | End-to-end pipeline with orchestration | `Python` `Airflow` |
-
----
-
-### Machine Learning Projects
-
-| Repository | Description | Tech |
-|------------|-------------|------|
-| [**News Article Classification**](https://github.com/Toukennn/News-Article-Topic-Classification) | NLP pipeline for topic classification | `NLP` `Scikit-learn` |
+| **Programming** | Python, C, C++, Java |
+| **ML & Data Science** | NumPy, Pandas, Scikit-learn, PyTorch |
+| **Data Engineering** | SQL, MongoDB, Data Warehouse Design |
+| **Tools** | Git, Docker, Linux, Jupyter, FastAPI |
+| **Visualization** | Matplotlib, Power BI |
 
 ---
 
 ## What I'm Working On
 
-- ⚙️ Building **production-ready data pipelines**
-- ☁️ Learning **AWS for scalable architectures**
-- 🐳 Integrating **Docker into workflows**
-- ⚡ Exploring **Apache Spark & Big Data**
+- ⚙️ Building **more advanced ML pipelines**
+- ☁️ Learning **AWS for scalable data systems**
+- 🐳 Integrating **Docker into ML workflows**
+- ⚡ Strengthening **data engineering & backend skills**
 
 ---
 
@@ -108,26 +112,18 @@ Master’s student in **Management & Engineering** with a strong interest in bui
 
 ---
 
-## Languages
-
-| Language | Level |
-|----------|-------|
-| English | Professional |
-| Persian | Native |
-| Italian | Intermediate |
-
----
-
 ## Contact
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:amirreza.khatibi@studenti.polito.it">
+    <img src="https://img.shields.io/badge/Academic_Email-Contact-0969DA?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>Open to internships, collaborations, and projects in Data Engineering & Machine Learning.</em>
+  <em>Open to internships, research opportunities, and projects in Data Science & Engineering.</em>
 </p>
 
 <p align="center">
