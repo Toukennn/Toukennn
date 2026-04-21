@@ -7,6 +7,7 @@
   <a href="https://linkedin.com/in/aliivaezii"><img src="https://img.shields.io/badge/LinkedIn-Amirreza Khatibi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-In_Progress-0969DA?style=for-the-badge&logo=google-chrome" /></a>
   <a href="https://raw.githubusercontent.com/Toukennn/Toukennn/main/Amir_CV.pdf">
+<a href="https://raw.githubusercontent.com/Toukennn/Toukennn/main/Amir_CV.pdf">
   <img src="https://img.shields.io/badge/Download_CV-PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV"/>
 </a>
 </p>
