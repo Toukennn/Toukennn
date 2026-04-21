@@ -61,9 +61,9 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 
 | Repository | Description | Tech |
 |------------|-------------|------|
-| [**SQL_DataWarehousing**](https://github.com/Toukennn/SQL_DataWarehousing) | Designed a **Medallion Architecture (Bronze, Silver, Gold)** and built SQL-based ETL pipelines with dimensional modeling and performance optimization | `SQL` `ETL` `Data Warehouse` |
-| [**News-Article-Topic-Classification**](https://github.com/Toukennn/News-Article-Topic-Classification) | Multi-class NLP classifier (7 categories) using TF-IDF (~65k features), metadata integration, and LinearSVC with class balancing | `NLP` `Scikit-learn` `TF-IDF` |
-| [**Real-Estate-Price-Prediction**](#) | End-to-end regression pipeline with feature engineering, model comparison, and evaluation using RMSE, MAE, and Adjusted R² | `Pandas` `Scikit-learn` `ML` |
+| [**SQL_DataWarehousing**](https://github.com/Toukennn/SQL_DataWarehousing) | Designed a **Medallion Architecture (Bronze, Silver, Gold)** and built SQL-based ETL pipelines with dimensional modeling and performance optimization | `SQL` `ETL` `Data Warehouse` `SSMS`|
+| [**News-Article-Topic-Classification**](https://github.com/Toukennn/News-Article-Topic-Classification) | Multi-class NLP classifier (7 categories) using TF-IDF (~65k features), metadata integration, and LinearSVC with class balancing | `NLP` `Scikit-learn` `TF-IDF` `ML`|
+| [**Real-Estate-Price-Prediction**](#) | End-to-end regression pipeline with feature engineering, model comparison, and evaluation using RMSE, MAE, and Adjusted R² | `Scikit-learn` `ML` `Streamlit` |
 
 ---
 
@@ -89,7 +89,6 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 - ☁️ Learning **AWS for scalable data systems**
 - 🧠 Exploring **Deep Learning & Computer Vision**
 - 🏗️ Working with **Big Data tools (Spark, Airflow, Hadoop)**
-- ⚡ Strengthening **data engineering & backend skills**
 
 ---
 
