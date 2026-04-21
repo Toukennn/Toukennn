@@ -51,7 +51,7 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 *Algorithms and Data Structures (2024 - 2025)*  
 - Assisted **200+ students** in implementing data structures for solving complex algorithmic problems   
 - Covered **complexity analysis, recursion, sorting, debugging, dyanmic programming, graph traversal**
-- - Helped improve **overall course outcomes and student success rates**  
+- Helped improve **overall course outcomes and student success rates**  
 
 ---
 
