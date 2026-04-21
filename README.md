@@ -48,7 +48,7 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 - Contributed to a **significant improvement in student performance and pass rates**  
 
 ### Laboratory Teaching Assistant · Politecnico di Torino  
-*Algorithms and Data Structures (2024)*  
+*Algorithms and Data Structures (2024 - 2025)*  
 - Assisted **200+ students** in implementing data structures for solving complex algorithmic problems   
 - Covered **complexity analysis, recursion, sorting, debugging, dyanmic programming, graph traversal**
 - - Helped improve **overall course outcomes and student success rates**  
@@ -88,6 +88,7 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 - ⚙️ Building **more advanced ML pipelines**
 - ☁️ Learning **AWS for scalable data systems**
 - 🧠 Exploring **Deep Learning & Computer Vision**
+- 🏗️ Working with **Big Data tools (Spark, Airflow, Hadoop)**
 - ⚡ Strengthening **data engineering & backend skills**
 
 ---
