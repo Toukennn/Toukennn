@@ -133,5 +133,5 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0969DA&height=6&section=footer&animation=twinkling"/>
+  <img src="https://raw.githubusercontent.com/Toukennn/Toukennn/output/snake.svg" alt="Snake animation" />
 </p>
