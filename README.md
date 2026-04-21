@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Toukennn"><img src="https://img.shields.io/badge/GitHub-Toukennn-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/aliivaezii"><img src="https://img.shields.io/badge/LinkedIn-Amir Reza Khatibi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/aliivaezii"><img src="https://img.shields.io/badge/LinkedIn-Amirreza Khatibi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-In_Progress-0969DA?style=for-the-badge&logo=google-chrome" /></a>
 </p>
 
