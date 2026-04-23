@@ -86,7 +86,7 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 ## What I'm Working On
 
 - ⚙️ Building **more advanced ML pipelines**
-- ☁️ Learning **AWS for scalable data systems**
+- ☁️ Testing **AWS services for scalable data systems**
 - 🧠 Exploring **Deep Learning & Computer Vision**
 - 🏗️ Working with **Big Data tools (Spark, Airflow, Hadoop)**
 
