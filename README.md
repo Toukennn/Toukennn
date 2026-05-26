@@ -105,7 +105,7 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Toukennn&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" alt="Amir Reza Khatibi's GitHub Stats" />
