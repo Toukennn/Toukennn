@@ -105,17 +105,19 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 
 ---
 
+## 📊 GitHub Stats
 
-## GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Toukennn&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toukennn&theme=github-dark-blue&hide_border=true" height="165"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Toukennn&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toukennn&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=Toukennn&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toukennn&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+
+</div>
 
 ---
 
