@@ -108,27 +108,15 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    align="top" 
-    src="https://github-readme-stats.vercel.app/api?username=Toukennn&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&v=2" 
-    alt="Amir Reza Khatibi's GitHub Stats" 
-  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Toukennn&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" alt="Amir Reza Khatibi's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img 
-    align="top" 
-    src="https://streak-stats.demolab.com?user=Toukennn&theme=tokyonight&hide_border=true&v=2" 
-    alt="Amir Reza Khatibi's GitHub Streak" 
-  />
+  <img src="https://streak-stats.demolab.com?user=Toukennn&theme=tokyonight" alt="Amir Reza Khatibi's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img 
-    align="top" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toukennn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2" 
-    alt="Amir Reza Khatibi's Top Languages" 
-  />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Toukennn&layout=compact&theme=tokyonight&langs_count=8" alt="Amir Reza Khatibi's Top Languages" />
 </p>
 
 ---
