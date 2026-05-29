@@ -87,7 +87,7 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 
 - ⚙️ Learning how to use **Snowflake and DBT connected to AWS S3** for Datawarehouse design and optimization
 - 🧠 Exploring **Deep Learning & Computer Vision & Reinforcement Learning**
-- 🚀 Trying to use Big Data Processing tools such as **Apache Spark** and **Apache Airflow**
+- 🚀 Trying to use Big Data Processing tools such as **Apache Spark**, **Apache Airflow** and **Control-M**
 
 ---
 
