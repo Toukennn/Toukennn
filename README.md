@@ -130,9 +130,5 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 ---
 
 <p align="center">
-  <em>Open to internships, research opportunities, and projects in Data Science & Engineering.</em>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Toukennn/Toukennn/output/snake.svg" alt="Snake animation" />
 </p>
