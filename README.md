@@ -61,10 +61,10 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 
 | Repository | Description | Tech |
 |------------|-------------|------|
+| [**eomt-cross-domain-segmentation**](https://github.com/Toukennn/eomt-cross-domain-segmentation) | Evaluated and adapted EoMT for **COCO-to-Cityscapes semantic segmentation** and **road-scene anomaly detection**, including cross-domain evaluation, fine-tuning, and post-hoc anomaly scoring | `Python` `PyTorch` `Computer Vision` `Semantic Segmentation` `Anomaly Detection` |
 | [**weather_ETL_pipeline**](https://github.com/Toukennn/weather_ETL_pipeline) | Built an end-to-end **ETL pipeline** for weather data ingestion, transformation, and storage, orchestrated with Airflow and deployed using Docker and AWS | `Python` `ETL` `Apache Airflow` `Docker` `AWS` |
 | [**SQL_DataWarehousing**](https://github.com/Toukennn/SQL_DataWarehousing) | Designed a **Medallion Architecture (Bronze, Silver, Gold)** and built SQL-based ETL pipelines with dimensional modeling and performance optimization | `SQL` `ETL` `Data Warehouse` `SSMS` |
 | [**News-Article-Topic-Classification**](https://github.com/Toukennn/News-Article-Topic-Classification) | Multi-class NLP classifier (7 categories) using TF-IDF (~65k features), metadata integration, and LinearSVC with class balancing | `NLP` `Scikit-learn` `TF-IDF` `ML` |
-| [**Real-Estate-Price-Prediction**](#) | End-to-end regression pipeline with feature engineering, model comparison, and evaluation using RMSE, MAE, and Adjusted R² | `Scikit-learn` `ML` `Streamlit` |
 ---
 
 ## Tech Stack
