@@ -23,9 +23,8 @@
 Data Science & Engineering student with a strong foundation in **machine learning, computer vision, and data engineering**.
 
 - 🎓 MSc in **Data Science and Engineering** – Politecnico di Torino  
-- 🧠 Focus on ** Reinforcement learning and Statitical Modelling **   
+- 🧠 Focus on ** Agentic solutions, NLP and gaining experience as a Data Engineer **   
 - 🏗️ Experience building **end-to-end ML workflows and data pipelines** from data preprocessing to evaluation  
-- 📊 Strong background in **algorithms, system design, and applied statistics**  
 - 🚀 Interested in **real-world data problems and production-ready systems**
 
 ---
@@ -41,17 +40,23 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 
 ## Experience
 
+### Data Engineer Intern · Target Reply  
+*May 2026 – Present*  
+- Developed reusable **dbt transformation models on Snowflake** across multiple functional domains  
+- Translated source mappings and project requirements into **documented transformation logic and data entities**  
+- Used **Amazon S3 and AWS Glue** in cloud-based data storage and processing workflows  
+
 ### Teaching Assistant · Politecnico di Torino  
 *Signals and Systems (2025 – 2026)*  
 - Supported **300+ students** through labs and office hours  
-- Explained **mathematical foundations of signal processing** and Solved Past-exam problems
+- Explained **mathematical foundations of signal processing** and solved past-exam problems  
 - Contributed to a **significant improvement in student performance and pass rates**  
 
 ### Laboratory Teaching Assistant · Politecnico di Torino  
-*Algorithms and Data Structures (2024 - 2025)*  
-- Assisted **200+ students** in implementing data structures for solving complex algorithmic problems   
-- Covered **complexity analysis, recursion, sorting, debugging, dyanmic programming, graph traversal**
-- Helped improve **overall course outcomes and student success rates**  
+*Algorithms and Data Structures (2024 – 2025)*  
+- Assisted **200+ students** in implementing data structures for solving complex algorithmic problems  
+- Covered **complexity analysis, recursion, sorting, debugging, dynamic programming, graph traversal**  
+- Helped improve **overall course outcomes and student success rates**
 
 ---
 
@@ -61,32 +66,34 @@ Data Science & Engineering student with a strong foundation in **machine learnin
 
 | Repository | Description | Tech |
 |------------|-------------|------|
-| [**eomt-cross-domain-segmentation**](https://github.com/Toukennn/eomt-cross-domain-segmentation) | Evaluated and adapted EoMT for **COCO-to-Cityscapes semantic segmentation** and **road-scene anomaly detection**, including cross-domain evaluation, fine-tuning, and post-hoc anomaly scoring | `Python` `PyTorch` `Computer Vision` `Semantic Segmentation` `Anomaly Detection` |
-| [**weather_ETL_pipeline**](https://github.com/Toukennn/weather_ETL_pipeline) | Built an end-to-end **ETL pipeline** for weather data ingestion, transformation, and storage, orchestrated with Airflow and deployed using Docker and AWS | `Python` `ETL` `Apache Airflow` `Docker` `AWS` |
-| [**SQL_DataWarehousing**](https://github.com/Toukennn/SQL_DataWarehousing) | Designed a **Medallion Architecture (Bronze, Silver, Gold)** and built SQL-based ETL pipelines with dimensional modeling and performance optimization | `SQL` `ETL` `Data Warehouse` `SSMS` |
-| [**News-Article-Topic-Classification**](https://github.com/Toukennn/News-Article-Topic-Classification) | Multi-class NLP classifier (7 categories) using TF-IDF (~65k features), metadata integration, and LinearSVC with class balancing | `NLP` `Scikit-learn` `TF-IDF` `ML` |
+| [**Autonomous-data-engineer-agent**](https://github.com/Toukennn/Autonomous-data-engineer-agent) | Built and deployed a **safety-oriented Agentic AI platform for data engineering**, with specialized agents for ETL workflows and governed SQL analytics, deterministic guardrails, data quality, lineage, and a Medallion architecture | `Python` `LangGraph` `LangChain` `FastAPI` `PostgreSQL` `dbt` `Docker` `GitHub Actions` |
+| [**eomt-cross-domain-segmentation**](https://github.com/Toukennn/eomt-cross-domain-segmentation) | Developed a PyTorch workflow for **COCO-to-Cityscapes transfer learning**, semantic segmentation, and **anomaly detection**, comparing selective layer unfreezing with LoRA-style parameter-efficient adaptation | `Python` `PyTorch` `Transformers` `Computer Vision` `Transfer Learning` `Anomaly Detection` |
+| [**weather_ETL_pipeline**](https://github.com/Toukennn/weather_ETL_pipeline) | Built and deployed an end-to-end **ETL pipeline** for REST API ingestion, transformation, and AWS S3 storage, orchestrated with Airflow and containerized with Docker | `Python` `ETL` `Apache Airflow` `Docker` `AWS` `REST API` |
+| [**News-Article-Topic-Classification**](https://github.com/Toukennn/News-Article-Topic-Classification) | Built a multi-class **NLP classifier** across 7 categories using TF-IDF, metadata integration, LinearSVC, and class balancing | `NLP` `Scikit-learn` `TF-IDF` `Machine Learning` |
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,linux,cpp,java,mysql,docker,fastapi&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,linux,cpp,java,postgres,docker,fastapi,git,githubactions,aws&perline=11" />
 </p>
 
 | Domain | Technologies |
 |--------|-------------|
-| **Programming** | Python, C, C++, Java |
-| **ML & Data Science** | NumPy, Pandas, Scikit-learn, PyTorch, Tensorflow |
-| **Data Engineering** | SQL, MongoDB, Data Warehouse Design, ETL Pipelines |
-| **Tools** | Git, Docker, Linux, Jupyter, FastAPI, AWS services, Apache Airflow, SSMS|
+| **Programming** | Python, SQL, C, C++, Java |
+| **AI & Agentic Systems** | LangGraph, LangChain, LLM APIs, Tool Calling, Structured Outputs, Pydantic, LLM Guardrails |
+| **ML & Data Science** | PyTorch, Scikit-learn, Transformers, NLP, Computer Vision, NumPy, Pandas |
+| **Data Engineering** | dbt, Snowflake, PostgreSQL, PySpark, MongoDB, ETL/ELT, Data Modeling, Data Quality |
+| **Backend & Cloud** | FastAPI, REST APIs, Docker, AWS (EC2, S3, Glue), Railway |
+| **Engineering Tools** | Git, GitHub Actions, GitLab, Linux, pytest, Apache Airflow, Control-M |
 | **Visualization** | Matplotlib, Seaborn, Power BI |
 
 ---
 
 ## What I'm Working On
 
-- ⚙️ Learning how to use **Reinforcement learning techniques in real projects** 
-- 🧠 Exploring **Different functionalities of AWS**
+- ⚙️ Learning how to use **Agentic solutions in production workflows** 
+- 🧠 Exploring **Agentic architectures**
 - 🚀 Trying to learn more about NLP techniques 
 
 ---
